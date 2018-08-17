@@ -32,7 +32,6 @@ Gem::Specification.new do |s|
      "test/mimetype_fu_test.rb",
      "uninstall.rb"
   ]
-  s.has_rdoc = true
   s.homepage = %q{http://github.com/jfrench/mimetype-fu}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
